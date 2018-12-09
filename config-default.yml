@@ -1,0 +1,28 @@
+  -
+    name: "default"
+    #folder: "c:\\delete\\destDir\\beautiful_images"
+    folder: "/home/kovalchuk/test/destDir/beautiful_images"
+    start: 00:00:00
+    end: 23:59:59
+    priority: 0
+  -
+    name: "news"
+    #folder: "c:\\delete\\destDir\\news"
+    folder: "/home/kovalchuk/test/destDir/news"
+    start: 11:00:00
+    end: 13:00:00
+    priority: 10
+  -
+    name: "news"
+    #folder: "c:\\delete\\destDir\\news"
+    folder: "/home/kovalchuk/test/destDir/news"
+    start: 22:55:00
+    end: 22:59:00
+    priority: 10
+  -
+    name: "announces"
+    #folder: "c:\\delete\\destDir\\announce"
+    folder: "/home/kovalchuk/test/destDir/announce"
+    start: 11:30:00
+    end: 12:00:00
+    priority: 20

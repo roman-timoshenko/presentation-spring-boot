@@ -1,0 +1,2 @@
+#scheduler.rules.path: "C:\\_src\\_Java\\presentation-spring-boot\\src\\main\\resources\\config-default.yml"
+scheduler.rules.path: "/home/kovalchuk/test/bin/config-default.yml"
